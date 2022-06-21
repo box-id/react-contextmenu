@@ -39,12 +39,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vkbansal/react-contextmenu.git"
+    "url": "https://github.com/box-id/react-contextmenu.git"
   },
   "bugs": {
-    "url": "https://github.com/vkbansal/react-contextmenu/issues"
+    "url": "https://github.com/box-id/react-contextmenu/issues"
   },
-  "homepage": "https://github.com/vkbansal/react-contextmenu",
+  "homepage": "https://github.com/box-id/react-contextmenu",
   "dependencies": {
     "classnames": "^2.2.5",
     "object-assign": "^4.1.0"
